@@ -3,4 +3,4 @@
     import { ModeWatcher } from "mode-watcher";
 </script>
 
-<slot></slot>
+<slot />
