@@ -10,4 +10,10 @@ declare global {
 	}
 }
 
-export {};
+interface Book {
+	author: string
+	title: string
+	genre: string
+	pages: number
+	read: boolean
+}
